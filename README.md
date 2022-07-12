@@ -2,7 +2,7 @@
 
 Date: July 11, 2022
 
-# Eighth challange of [JavaScript30](https://javascript30.com/)
+# Ninth challange of [JavaScript30](https://javascript30.com/)
 
 Different types of dev tools console commands. To experience on your own visit [here](https://rohit-saini7.github.io/09-Dev-Tools-Domination/)
 
